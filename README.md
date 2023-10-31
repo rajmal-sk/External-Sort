@@ -1,6 +1,6 @@
 # External Sorting Algorithm
 
-1. Ten instances are included.
+1. Eight instances are included.
    input*[1-8].txt: the input file;
    
    output*[1-8]\_[1-2].txt: the correct output file,
